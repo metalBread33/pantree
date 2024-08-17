@@ -1,5 +1,6 @@
 //This file contains the cli version of the application
 #include <iostream>
+#include "../include/item.h"
 
 int main () {
     std::cout << "Hello and welcome to Pantree!" << std::endl;
